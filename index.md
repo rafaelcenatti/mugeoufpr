@@ -1,40 +1,14 @@
 ## Museu Geológico Virtual
 
+### Computador Pessoal (PC)
+<img src="https://raw.githubusercontent.com/rafaelcenatti/mugeoufpr/gh-pages/michael-dziedzic-AsF0Nadbb18-unsplash.jpg" alt="drawing" width="200"/> 
+
 
 ### Elementos Presentes no Computador de Mesa:
 Alumínio, Antimonio, Arsenio, Bário, Berílio, Cádmio, Cromo, Cobalto, Cobre, Galio, Ouro, Ferro, Chumbo, Manganês, Mercúrio, Paládio, Prata, Selênio, Prata, e Zinco.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Minerais Onde Esses Elementos São Encontrados:
 
+#### Cromita
 
-![Image](https://imgur.com/a/djkBOhn)
-
-```markdown
-![Image](https://imgur.com/a/djkBOhn)
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaelcenatti/mugeoufpr/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
