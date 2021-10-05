@@ -1,15 +1,18 @@
-## Welcome to GitHub Pages
+## Museu Geológico Virtual
 
-You can use the [editor on GitHub](https://github.com/rafaelcenatti/mugeoufpr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Elementos Presentes no Computador de Mesa:
+Alumínio, Antimonio, Arsenio, Bário, Berílio, Cádmio, Cromo, Cobalto, Cobre, Galio, Ouro, Ferro, Chumbo, Manganês, Mercúrio, Paládio, Prata, Selênio, Prata, e Zinco.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+![Image](https://imgur.com/a/djkBOhn)
+
 ```markdown
-Syntax highlighted code block
+![Image](https://imgur.com/a/djkBOhn)
 
 # Header 1
 ## Header 2
