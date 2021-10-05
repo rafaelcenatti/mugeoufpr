@@ -13,6 +13,9 @@ Alumínio, Antimonio, Arsenio, Bário, Berílio, Cádmio, Cromo, Cobalto, Cobre,
 #### Cromita:
 
 <img src="https://raw.githubusercontent.com/rafaelcenatti/mugeoufpr/gh-pages/download.png" alt="drawing" width="300"/> 
- Estrutura Cirstalina:
+
+
+
+ Estrutura Cristalina:
  
  Composição Química:
