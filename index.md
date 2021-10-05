@@ -10,5 +10,9 @@ Alumínio, Antimonio, Arsenio, Bário, Berílio, Cádmio, Cromo, Cobalto, Cobre,
 
 ### Minerais Onde Esses Elementos São Encontrados:
 
-#### Cromita
+#### Cromita:
 
+<img src="https://raw.githubusercontent.com/rafaelcenatti/mugeoufpr/gh-pages/download.png" alt="drawing" width="300"/> 
+ Estrutura Cirstalina:
+ 
+ Composição Química:
